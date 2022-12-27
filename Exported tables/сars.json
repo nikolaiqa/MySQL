@@ -1,0 +1,10 @@
+[{"car_id":1, "brand":"CADILLAC", "model":"ESCALADE", "color":"BLACK", "license_plate":"2235VD", "owner_id":1},
+ {"car_id":2, "brand":"INFINITY", "model":"QX80", "color":"WHITE", "license_plate":"7695KJ", "owner_id":1},
+ {"car_id":3, "brand":"BMW", "model":"X7", "color":"METALIC GREY", "license_plate":"8837KH", "owner_id":2},
+ {"car_id":4, "brand":"MERCEDES ", "model":"BENZ MAYBACH", "color":"BRONZE", "license_plate":"0983JP", "owner_id":4},
+ {"car_id":5, "brand":"AUDI", "model":"A8", "color":"DARK GREY", "license_plate":"8681AG", "owner_id":2},
+ {"car_id":6, "brand":"PORSCHE", "model":"911", "color":"LIGHT GREEN", "license_plate":"7608JJ", "owner_id":2},
+ {"car_id":7, "brand":"LEXUS", "model":"LS", "color":"BLACK", "license_plate":"3547OK", "owner_id":7},
+ {"car_id":8, "brand":"JAGUAR", "model":"I-PACE", "color":"WHITE", "license_plate":"2176CT", "owner_id":2},
+ {"car_id":9, "brand":"LAMBORGHINI ", "model":"HURACAN", "color":"SILVER", "license_plate":"0155AC", "owner_id":1},
+ {"car_id":10, "brand":"TOYOTA ", "model":"CAMRY", "color":"BLACK", "license_plate":"4387DD", "owner_id":7}]

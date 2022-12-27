@@ -1,0 +1,10 @@
+[{"person_id":1, "f_name":"MOLLY ", "l_name":"VAN", "age":47, "family_id":2, "chieff_id":0},
+ {"person_id":2, "f_name":"STEVEN ", "l_name":"CROSSBERG", "age":62, "family_id":1, "chieff_id":0},
+ {"person_id":3, "f_name":"ALAN ", "l_name":"GREEN", "age":30, "family_id":0, "chieff_id":2},
+ {"person_id":4, "f_name":"VALERIY", "l_name":"VAYCHUK", "age":36, "family_id":0, "chieff_id":0},
+ {"person_id":5, "f_name":"DAN", "l_name":"CROSSBERG", "age":24, "family_id":1, "chieff_id":0},
+ {"person_id":6, "f_name":"MARTA", "l_name":"CROSSBERG", "age":20, "family_id":1, "chieff_id":0},
+ {"person_id":7, "f_name":"BRIENNA", "l_name":"THOMSON ", "age":50, "family_id":0, "chieff_id":0},
+ {"person_id":8, "f_name":"ANDREW", "l_name":"ANDERSON", "age":45, "family_id":3, "chieff_id":4},
+ {"person_id":9, "f_name":"SERG", "l_name":"ANDERSON", "age":32, "family_id":3, "chieff_id":4},
+ {"person_id":10, "f_name":"DAN", "l_name":"BRON", "age":25, "family_id":2, "chieff_id":1}]
