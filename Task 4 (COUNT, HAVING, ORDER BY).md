@@ -11,7 +11,7 @@ Define all car owners, who owns more than 1 car and their cars are used by less 
 
 ### The first step: fetching all cars, its owners and those who's allowed to drive the cars
 
-```SQL
+``` SQL
 SELECT D.person_id, P.f_name AS driver_name, 
        D.car_id, C.brand, PC.f_name AS owner_name
 FROM drivers D 
@@ -25,7 +25,7 @@ ORDER BY owner_name, driver_name
 ___
 ### The second step: grouping gotten rows by owners and its filtering based the task condition
 
-```SQL
+``` SQL
 WITH owners_and_drivers AS (
 SELECT D.person_id, P.f_name AS driver_name, 
        D.car_id, C.brand, PC.f_name AS owner_name
