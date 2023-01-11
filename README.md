@@ -1,6 +1,4 @@
-<p align="center">
-      <img src="https://i.ibb.co/RBXqQfK/My-SQL-Logo-wine.png" height='200' width="300">
-</p>
+<p align="center"> <a href="https://github.com/nikolaiqa/MySQL"><img src="https://i.ibb.co/RBXqQfK/My-SQL-Logo-wine.png" height='200' width="300" /> </a> </p>
 
 # About
 In that repository will be presented my skills related to SQL. To show them to you I've created a schema named ***'elite_parking'*** which is a kind of database of a hypothetical app for some wealthy area.
